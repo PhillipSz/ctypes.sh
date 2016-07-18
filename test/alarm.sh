@@ -55,5 +55,3 @@ dlcall alarm 1
 dlcall pause
 
 echo PASS
-
-exit 0
