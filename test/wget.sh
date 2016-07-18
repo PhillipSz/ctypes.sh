@@ -101,4 +101,3 @@ if [[ $ret != int:-1 ]]; then
 fi
 
 dlcall free $buf
-exit 0
